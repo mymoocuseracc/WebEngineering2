@@ -1,0 +1,24 @@
+/* Stylesheet fuer Mooc WebEngineering II, Hausaufgabe 1 */
+/*24.01.2014, be */
+body {
+	  margin: 20px;
+	  font-size: 20px;
+	  font-family: Verdana,sans-serif;
+	  background-color: #DFDFDF;
+     }
+
+p {
+    font-size: 15px;
+  }
+
+span {
+       font-size: 18px;
+       color: blue;
+     }
+
+.note {
+       font-size: 10px;
+       line-height: 30%;
+	  }
+	  
+	  
